@@ -1,0 +1,8 @@
+node_modules/
+src/
+vendor/
+my_virtual_shop.sql
+gulpfile.js
+package.json
+package-lock.json
+.env
